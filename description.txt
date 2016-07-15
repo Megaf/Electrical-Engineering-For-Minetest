@@ -1,0 +1,1 @@
+This mods implements electrical engineering in Minetest, making possible to build electrical grids and circuits that behave in a similar fashion of circuits in real life.
