@@ -1,6 +1,6 @@
 {
   "name": "Electrical-engineering-for-minetest",
-  "tagline": "This is a Minetest mod that intends to replicate real life Electric Engineering in Minetest.",
+  "tagline": "This is a Minetest mod that intends to replicate real life Electrical Engineering in Minetest.",
   "body": "### Electrical Engineering for Minetest.\r\nThis mods implements electrical engineering in Minetest, making possible to build electrical grids and circuits that behave in a similar fashion of circuits in real life.\r\n\r\n### Basic components\r\nThe most basic components that we will be trying to implement first are:\r\n* Wires\r\n* Light Bulb\r\n* Switch\r\n* Battery\r\n* Common Ground\r\n\r\n### Want to help?\r\nJust [fork](https://github.com/Megaf/Electrical-Engineering-For-Minetest#fork-destination-box) the project and begin submitting Pull Requests for your ideas.\r\nOr, [open a new issue](https://github.com/Megaf/Electrical-Engineering-For-Minetest/issues/new) to discuss your ideas and suggestions..\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
